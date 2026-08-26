@@ -34,3 +34,6 @@ python calculator.py
 
 ## Author
 Hani
+## Output
+![Calculator Output]
+(Screenshot 2026-08-26 214025.png)
