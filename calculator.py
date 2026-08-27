@@ -89,6 +89,5 @@ def calculator():
             f"{operator} {second_number:g} = {result:g}"
         )
 
-
 if __name__ == "__main__":
     calculator()
