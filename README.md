@@ -32,15 +32,9 @@ GitHub| Source code hosting
 
 Project Structure
 
-simple-calculator-python/
-│
-├── calculator.py
-├── README.md
-├── requirements.txt
-├── .gitignore
-│
-└── screenshots/
-    └── calculator-output.png
+calculator.py
+README.md
+calculator.jpeg
 
 How It Works
 
