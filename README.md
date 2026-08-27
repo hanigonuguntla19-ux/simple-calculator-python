@@ -134,10 +134,7 @@ Enter second number: 0
 Error: Division by zero is not allowed.
 
 Screenshots
-
-Add your calculator screenshot to the "screenshots" folder and display it using:
-
-![Calculator Output](screenshots/calculator-output.png)
+The calculator output is shown below
 
 How to Run
 
